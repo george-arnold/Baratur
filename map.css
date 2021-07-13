@@ -1,0 +1,9 @@
+			.Ayondir {
+				border: 3px solid black;
+			}
+			.title {
+				position: absolute;
+				transform: translateX(-50%);
+				z-index: 10;
+				display: none;
+			}
